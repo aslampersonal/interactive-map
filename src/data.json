@@ -1,0 +1,11 @@
+[
+    { "id": 1, "region": "Africa", "data": 290, "top": 55, "left": 45 },
+    { "id": 2, "region": "Africa", "data": 490, "top": 63, "left": 51 },
+    { "id": 3, "region": "Asia", "data": 790, "top": 50, "left": 62 },
+    { "id": 4, "region": "Europe", "data": 190, "top": 30, "left": 62 },
+    { "id": 5, "region": "Asia", "data": 290, "top": 55, "left": 69 },
+    { "id": 6, "region": "North America", "data": 390, "top": 35, "left": 15 },
+    { "id": 7, "region": "South America", "data": 1090, "top": 75, "left": 25 },
+    { "id": 8, "region": "Europe", "data": 1190, "top": 30, "left": 65 }
+  ]
+  
